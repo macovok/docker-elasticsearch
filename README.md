@@ -1,2 +1,2 @@
-# docker-elasticsearch
-docker-image for elasticsearch 
+# ElasticSearch
+ElasticSearch 1.4.0
